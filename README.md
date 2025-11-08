@@ -1,4 +1,6 @@
 # White_Wine_Analytics_Project
+![Description](./winechart.png)
+
 
 **Project ID:** DV-22886  
 **Author:** Deepa Vutharkar  
