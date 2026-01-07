@@ -59,6 +59,23 @@ The analysis includes exploratory data analysis (EDA), data cleaning, visualizat
 - Python for Data Analysis  
 
 ---
+## 📊 Key Visualizations
+
+### 1. Wine Quality Distribution
+![Quality Distribution](images/quality_distribution.png)
+
+### 2. Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### 3. Alcohol Content vs Quality
+![Alcohol vs Quality](images/alcohol_vs_quality.png)
+
+### 4. Outliers in Residual Sugar
+![Outliers Residual Sugar](images/outliers_residual_sugar.png)
+
+### 5. Power BI Dashboard Overview
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
 Images
 <img width="789" height="509" alt="Correlation" src="https://github.com/user-attachments/assets/30e0bbe7-1393-42e9-b5a5-dee2f7405ed1" />
 <img width="1041" height="516" alt="Distribution of Feautures" src="https://github.com/user-attachments/assets/e8dbe061-ec5c-4763-9cb4-b0a5e3cafa59" />
