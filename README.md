@@ -59,6 +59,11 @@ The analysis includes exploratory data analysis (EDA), data cleaning, visualizat
 - Python for Data Analysis  
 
 ---
+Images
+<img width="789" height="509" alt="Correlation" src="https://github.com/user-attachments/assets/30e0bbe7-1393-42e9-b5a5-dee2f7405ed1" />
+<img width="1041" height="516" alt="Distribution of Feautures" src="https://github.com/user-attachments/assets/e8dbe061-ec5c-4763-9cb4-b0a5e3cafa59" />
+
+
 
   
  **Insights from Analysis**
