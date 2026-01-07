@@ -79,3 +79,21 @@ Images
 - Outliers exist in some features (like alcohol and sulphates), but most data is consistent.
 
 - There are no missing values in the dataset, making it clean for modeling.
+
+
+  
+ **Project Structure**
+  
+  White_Wine_Analytics_Project/
+├── Whitewine_EDA.ipynb           
+├── README.md                     
+├── winequality-white.csv       
+├── White_wine.pbix            
+├── winechart.png                
+└── images/                       
+    ├── quality_distribution.png
+    ├── correlation_heatmap.png
+    ├── alcohol_vs_quality.png
+    ├── outliers_residual_sugar.png
+    └── powerbi_dashboard.png
+
